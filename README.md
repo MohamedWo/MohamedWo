@@ -29,6 +29,9 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="40" alt="Seaborn"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/></a>
@@ -40,7 +43,7 @@
 
 - 💻 I'm an **ASP.NET Full Stack Developer** & **AI/ML/DL/NLP/Computer Vision Engineer**  
 - 🎓 Certified in **SQL Server from Microsoft**  
-- 🧠 Skilled in **Pandas**, **NumPy**, **MVC Framework**, **JavaScript**, **HTML**, **CSS**, **Bootstrap**, and **ASP.NET**  
+- 🧠 Skilled in **Pandas**, **NumPy**, **Scikit-learn**, **Seaborn**, **Matplotlib**, **MVC Framework**, **JavaScript**, **HTML**, **CSS**, **Bootstrap**, and **ASP.NET**  
 - ☁️ Exploring **Microsoft Azure** and **AI Cloud Services**  
 - 🚀 Passionate about **building intelligent and scalable systems**  
 - 🤝 Open to **collaborations** in .NET, AI & Deep Learning projects  
