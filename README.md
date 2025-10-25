@@ -36,6 +36,6 @@
 
 <h2 align="left">💬 Let's Connect:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Tarek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-tarek/)](https://www.linkedin.com/in/mohamed-tarek/)
-[![Gmail Badge](https://img.shields.io/badge/-mohamedtarek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedtarek@gmail.com)](mailto:mohamedtarek@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-MohamedTarek-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mohamedtarek)](https://github.com/mohamedtarek)
+[![Linkedin Badge]([https://img.shields.io/badge/-Mohamed%20Tarek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-tarek/](https://www.linkedin.com/in/mohamed-mohamed-230ba4364/))](https://www.linkedin.com/in/mohamed-tarek/)
+[![Gmail Badge](mohamedwork280@gmail.com)](mailto:mohamedtarek@gmail.com)
+[![GitHub Badge]([https://img.shields.io/badge/-MohamedTarek-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mohamedtarek](https://github.com/MohamedWo?tab=repositories))](https://github.com/mohamedtarek)
