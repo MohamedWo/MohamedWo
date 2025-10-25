@@ -47,13 +47,11 @@
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-tarek/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Tarek-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mohamedtarek@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-mohamedtarek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/mohamedtarek" target="_blank"><img src="https://img.shields.io/badge/-MohamedTarek-black?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-@mohamedtarek-D7008A?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Tarek-3b5998?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-mohamed-230ba4364/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mohamedwork280@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/MohamedWo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ *From [Mohamed Tarek](https://github.com/mohamedtarek)*
+⭐️ *From [Mohamed Tarek](https://github.com/MohamedWo)*
